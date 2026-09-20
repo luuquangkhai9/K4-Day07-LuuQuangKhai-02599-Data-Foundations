@@ -1,0 +1,76 @@
+{
+  "chunk_size_target": 800,
+  "note": "Character counts include repeated headings. No retrieval benchmark run.",
+  "documents": [
+    {
+      "doc_id": "shopee-chinh-sach-tra-hang-nguoi-ban",
+      "count": 38,
+      "avg_length": 567.2,
+      "max_length": 787,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-chinh-sach-tra-hang-nguoi-mua",
+      "count": 36,
+      "avg_length": 580.4,
+      "max_length": 787,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-huong-dan-chuan-bi-bang-chung",
+      "count": 7,
+      "avg_length": 520.7,
+      "max_length": 751,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-huong-dan-gui-yeu-cau-tra-hang",
+      "count": 8,
+      "avg_length": 347.8,
+      "max_length": 760,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-phuong-thuc-va-phi-tra-hang",
+      "count": 12,
+      "avg_length": 571.7,
+      "max_length": 799,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-quy-dinh-chung-tra-hang-hoan-tien",
+      "count": 13,
+      "avg_length": 619.2,
+      "max_length": 801,
+      "exceeds_target": 1
+    },
+    {
+      "doc_id": "shopee-quy-trinh-xu-ly-tra-hang",
+      "count": 19,
+      "avg_length": 535.4,
+      "max_length": 735,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-san-pham-han-che-tra-hang",
+      "count": 6,
+      "avg_length": 232.8,
+      "max_length": 378,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-thoi-gian-va-cach-kiem-tra-tien-hoan",
+      "count": 7,
+      "avg_length": 606.3,
+      "max_length": 769,
+      "exceeds_target": 0
+    },
+    {
+      "doc_id": "shopee-tra-hang-doi-y",
+      "count": 18,
+      "avg_length": 527.6,
+      "max_length": 797,
+      "exceeds_target": 0
+    }
+  ]
+}
